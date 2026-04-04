@@ -1,145 +1,114 @@
-<h1 align="center">Привет, я Кирилл Булавин</h1>
-<h3 align="center">Python Backend Developer | RAG-системы | Computer Vision | Embedded-интеграции</h3>
+# Кирилл Булавин
 
-<p align="center">
-  <a href="mailto:bulavinkirill02@gmail.com">bulavinkirill02@gmail.com</a> • Минск
+**Python Backend Developer**  
+Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LeetCode](https://leetcode.com/u/JustiZz/)
+
+![Просмотры профиля](https://komarev.com/ghpvc/?username=JustiZzZz&label=Просмотры%20профиля&color=0e75b6&style=flat)
+
+## Статистика
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JustiZzZz&show_icons=true&locale=ru&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustiZzZz&layout=compact&locale=ru&hide_border=true" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/JustiZz/">LeetCode</a>
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=JustiZzZz&locale=ru&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustiZzZz&label=Просмотры+профиля&color=0e75b6&style=flat" alt="views" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustiZzZz&theme=github-compact&hide_border=true" />
 </p>
 
----
-
-## Обо мне
-
-Я `Python Backend Developer`, который работает на стыке backend-разработки, прикладного AI и интеграции с аппаратными платформами.
-
-Сейчас мой основной фокус:
-- backend API и серверная логика
-- RAG-системы и обработка документов
-- асинхронные пайплайны и очереди задач
-- Computer Vision и интеграция со встраиваемыми устройствами
-
-У меня есть опыт в:
-- разработке backend на `FastAPI`, `Django`, `SQLAlchemy`
-- построении AI/RAG-конвейеров с `docling`, `PyTorch`, `LLM`
-- проектах с `Raspberry Pi`, `Arduino`, `RFID/NFC`
-- командной работе: постановка задач, проверка гипотез, презентация решений
-
----
-
-## Текущий опыт
-
-### Python Backend Developer — `Chota.by`
-`Декабрь 2025 — настоящее время`
-
-Разрабатываю backend-часть платформы для работы с документами и построения RAG-ядра, которое позволяет загружать документы, извлекать из них знания и использовать их для анализа и поиска.
-
-Что делаю:
-- проектирую и реализую API на `FastAPI`
-- разрабатываю пайплайны загрузки, хранения и обработки документов
-- участвую в построении RAG-конвейера: извлечение текста, индексирование, интеграция с LLM
-- настраиваю асинхронные обработчики и очереди задач для устойчивой работы системы
-
-**Стек:** `Python 3.13`, `FastAPI`, `SQLAlchemy`, `PostgreSQL`, `SQLite`, `Redis`, `Kafka`, `Docker`, `Git`, `Jira`, `docling`
-
----
-
-## Проекты
-
-### Прототип интеллектуальных очков
-Разработал прототип очков на базе `Raspberry Pi` и камеры, распознающих объекты и сцену с помощью моделей Computer Vision и NLP.
-
-**Стек:** `Python`, `OpenCV`, `YOLO`, `MediaPipe`, `PyTorch`, `Raspberry Pi`, `gRPC`, `Linux`
-
-### Исследование защиты RFID-систем
-Работал над защитой систем на базе RFID/NFC от атак на идентификатор метки, включая моделирование схем, работу с аппаратной частью и программную реализацию.
-
-**Стек:** `C/C++`, `Arduino`, `ESP`, `MFRC522`, `RFID/NFC`, `Multisim`, `Coil64`
-
-### Telegram-бот и web-магазин на Django
-Разработал pet-проект с Telegram-ботом, web-интерфейсом, авторизацией пользователей, пагинацией, фильтрацией и интеграцией с внешними API.
-
-**Стек:** `Python`, `Django`, `SQLite`, `PostgreSQL`, `HTML/CSS`, `aiogram`
-
----
-
-## Технологии
-
-### Backend
-`Python` `FastAPI` `Django` `SQLAlchemy` `REST API` `Redis` `Kafka`
-
-### AI / CV / RAG
-`RAG` `OpenCV` `YOLO` `MediaPipe` `PyTorch` `docling`
-
-### Базы данных
-`PostgreSQL` `SQLite` `SQL`
-
-### Инфраструктура
-`Docker` `Git` `Linux` `Postman` `Jira` `SSH`
-
-### Embedded / Hardware
-`Raspberry Pi` `Arduino` `ESP` `RFID/NFC` `MFRC522` `Multisim` `Coil64`
-
----
-
-## Образование
-
-**Белорусский государственный университет информатики и радиоэлектроники (БГУИР)**  
-Программное обеспечение информационных технологий  
-`2025 — 2029`
-
-**Национальный детский технопарк**  
-Направления: робототехника и информационная безопасность  
-`2023 — 2025`
-
----
-
-## Статистика GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JustiZzZz&show_icons=true&locale=ru&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustiZzZz&layout=compact&locale=ru&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JustiZzZz&locale=ru&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?usernameJustiZzZz&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustiZzZz&theme=github" />
 </p>
 
----
-
 ## LeetCode
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/u/JustiZz/">
     <img src="https://leetcard.jacoblin.cool/JustiZz?theme=light&font=Noto_Sans&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
----
+## Обо мне
+
+Python Backend Developer с фокусом на backend-разработке, RAG-системах, обработке документов и интеграции софта с аппаратными платформами.
+
+Сейчас работаю над backend-платформой для документов и RAG-ядром: проектирую API, собираю пайплайны обработки данных, участвую в индексировании и интеграции LLM, настраиваю асинхронные обработчики и очереди задач.
+
+Есть практический опыт в backend, Computer Vision, embedded-разработке и исследовательских проектах на стыке Python, AI и железа.
+
+## Стек
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### AI / CV / RAG
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
+![Docling](https://img.shields.io/badge/Docling-0F172A?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square)
+
+### Embedded
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-222222?style=flat-square)
+![RFID/NFC](https://img.shields.io/badge/RFID%2FNFC-1D4ED8?style=flat-square)
+![MFRC522](https://img.shields.io/badge/MFRC522-334155?style=flat-square)
+
+## Опыт
+
+### `Chota.by` — Python Backend Developer
+**Декабрь 2025 — настоящее время**
+
+Разработка backend-части платформы для работы с документами и построения RAG-ядра.
+
+- Проектирование и реализация API на `FastAPI`
+- Обработка, хранение и индексация документов
+- Построение RAG-конвейеров и интеграция LLM
+- Асинхронные обработчики, очереди задач, масштабирование backend-логики
+
+## Проекты
+
+### Прототип интеллектуальных очков
+Система на базе `Raspberry Pi` и камеры для распознавания объектов и сцены с использованием `YOLO`, `MediaPipe` и NLP-компонентов.
+
+### Исследование защиты RFID-систем
+Проектирование и реализация решений для защиты RFID/NFC-систем от атак на идентификатор метки, включая аппаратную и программную часть.
+
+### Telegram-бот и web-магазин на Django
+Pet-проект с авторизацией, фильтрацией, пагинацией, Telegram-ботом и интеграцией с базой данных.
+
+## Образование
+
+**БГУИР**  
+Программное обеспечение информационных технологий  
+`2025 — 2029`
+
+**Национальный детский технопарк**  
+Робототехника и информационная безопасность  
+`2023 — 2025`
 
 ## Языки
 
 - Русский — носитель
 - Английский — B1
 - Немецкий — B1
-
----
-
-## Контакты
-
-- Email: `bulavinkirill02@gmail.com`
-- LeetCode: [JustiZz](https://leetcode.com/u/JustiZz/)
