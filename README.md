@@ -3,17 +3,10 @@
 **Python Backend Developer**  
 Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LeetCode](https://leetcode.com/u/JustiZz/)
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=JustiZzZz&label=Просмотры%20профиля&color=0e75b6&style=flat)
-
 ## Статистика
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustiZzZz&theme=github-compact&hide_border=true" />
-</p>
-
-## LeetCode
-
-<p>
   <a href="https://leetcode.com/u/JustiZz/">
     <img src="https://leetcard.jacoblin.cool/JustiZz?theme=light&font=Noto_Sans&ext=contest" alt="LeetCode Stats" />
   </a>
