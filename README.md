@@ -4,7 +4,6 @@
 Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LeetCode](https://leetcode.com/u/JustiZz/)
 
 ## Статистика
-[Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JustiZzZz&show_icons=true&theme=radical)
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustiZzZz&theme=github-compact&hide_border=true" />
   <a href="https://leetcode.com/u/JustiZz/">
@@ -14,11 +13,7 @@
 
 ## Обо мне
 
-Python Backend Developer с фокусом на backend-разработке, RAG-системах, обработке документов и интеграции софта с аппаратными платформами.
-
-Сейчас работаю над backend-платформой для документов и RAG-ядром: проектирую API, собираю пайплайны обработки данных, участвую в индексировании и интеграции LLM, настраиваю асинхронные обработчики и очереди задач.
-
-Есть практический опыт в backend, Computer Vision, embedded-разработке и исследовательских проектах на стыке Python, AI и железа.
+Python Backend Developer из Минска с фокусом на backend-разработке, Computer Vision, embedded-разработке и исследовательских проектах на стыке Python, AI и железа.
 
 ## Стек
 
@@ -82,7 +77,6 @@ Pet-проект с авторизацией, фильтрацией, пагин
 **БГУИР**  
 Программное обеспечение информационных технологий  
 `2025 — 2029`
-
 **Национальный детский технопарк**  
 Робототехника и информационная безопасность  
 `2023 — 2025`
