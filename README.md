@@ -4,7 +4,7 @@
 Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LeetCode](https://leetcode.com/u/JustiZz/)
 
 ## Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JustiZzZz&show_icons=true&theme=radical)
+[Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JustiZzZz&show_icons=true&theme=radical)
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustiZzZz&theme=github-compact&hide_border=true" />
   <a href="https://leetcode.com/u/JustiZz/">
