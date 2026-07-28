@@ -1,7 +1,7 @@
 # Кирилл Булавин
 
 **AI Engineer / Python Backend Developer**  
-Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LeetCode](https://leetcode.com/u/JustiZz/) • [Telegram](https://t.me/bvlkr)
+Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LinkedIn](www.linkedin.com/in/kiryl-bulavin) • [LeetCode](https://leetcode.com/u/JustiZz/) • [Telegram](https://t.me/bvlkr) 
 
 ## Статистика
 
