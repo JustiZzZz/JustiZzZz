@@ -3,15 +3,6 @@
 **AI Engineer / Python Backend Developer**  
 Минск • [bulavinkirill02@gmail.com](mailto:bulavinkirill02@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kiryl-bulavin/) • [LeetCode](https://leetcode.com/u/JustiZz/) • [Telegram](https://t.me/bvlkr) 
 
-## Статистика
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustiZzZz&theme=github-compact&hide_border=true" />
-  <a href="https://leetcode.com/u/JustiZz/">
-    <img src="https://leetcard.jacoblin.cool/JustiZz?theme=light&font=Noto_Sans&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
-
 ## Обо мне
 
 Python Backend Developer из Минска с фокусом на разработке AI-агентов, микросервисной архитектуре, RAG-системах, интеграции внешних API и backend-инфраструктуре.
